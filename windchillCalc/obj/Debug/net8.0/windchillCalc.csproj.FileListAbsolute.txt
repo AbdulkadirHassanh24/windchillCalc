@@ -1,0 +1,14 @@
+/Users/caabdul-qaadirhassan/test rider/windchillCalc/windchillCalc/bin/Debug/net8.0/windchillCalc
+/Users/caabdul-qaadirhassan/test rider/windchillCalc/windchillCalc/bin/Debug/net8.0/windchillCalc.deps.json
+/Users/caabdul-qaadirhassan/test rider/windchillCalc/windchillCalc/bin/Debug/net8.0/windchillCalc.runtimeconfig.json
+/Users/caabdul-qaadirhassan/test rider/windchillCalc/windchillCalc/bin/Debug/net8.0/windchillCalc.dll
+/Users/caabdul-qaadirhassan/test rider/windchillCalc/windchillCalc/bin/Debug/net8.0/windchillCalc.pdb
+/Users/caabdul-qaadirhassan/test rider/windchillCalc/windchillCalc/obj/Debug/net8.0/windchillCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/caabdul-qaadirhassan/test rider/windchillCalc/windchillCalc/obj/Debug/net8.0/windchillCalc.AssemblyInfoInputs.cache
+/Users/caabdul-qaadirhassan/test rider/windchillCalc/windchillCalc/obj/Debug/net8.0/windchillCalc.AssemblyInfo.cs
+/Users/caabdul-qaadirhassan/test rider/windchillCalc/windchillCalc/obj/Debug/net8.0/windchillCalc.csproj.CoreCompileInputs.cache
+/Users/caabdul-qaadirhassan/test rider/windchillCalc/windchillCalc/obj/Debug/net8.0/windchillCalc.dll
+/Users/caabdul-qaadirhassan/test rider/windchillCalc/windchillCalc/obj/Debug/net8.0/refint/windchillCalc.dll
+/Users/caabdul-qaadirhassan/test rider/windchillCalc/windchillCalc/obj/Debug/net8.0/windchillCalc.pdb
+/Users/caabdul-qaadirhassan/test rider/windchillCalc/windchillCalc/obj/Debug/net8.0/windchillCalc.genruntimeconfig.cache
+/Users/caabdul-qaadirhassan/test rider/windchillCalc/windchillCalc/obj/Debug/net8.0/ref/windchillCalc.dll
